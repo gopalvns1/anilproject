@@ -1,0 +1,409 @@
+2023-06-03 19:46:45,195 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:46:45,203 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:46:45,203 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:46:50,182 DEBUG com.onpassive.otracker.filter.JwtFilter [restartedMain] Filter 'jwtFilter' configured for use
+2023-06-03 19:46:51,614 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 7.018 seconds (JVM running for 9.719)
+2023-06-03 19:48:55,396 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:48:55,397 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:48:55,397 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:48:56,341 DEBUG com.onpassive.otracker.filter.JwtFilter [restartedMain] Filter 'jwtFilter' configured for use
+2023-06-03 19:48:56,780 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.448 seconds (JVM running for 134.885)
+2023-06-03 19:49:07,763 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:49:07,764 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:49:07,764 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:49:08,653 DEBUG com.onpassive.otracker.filter.JwtFilter [restartedMain] Filter 'jwtFilter' configured for use
+2023-06-03 19:49:08,735 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field authenticationManager in com.onpassive.otracker.controller.UserController required a bean of type 'org.springframework.security.authentication.AuthenticationManager' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.authentication.AuthenticationManager' in your configuration.
+
+2023-06-03 19:49:54,275 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:49:54,275 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:49:54,276 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:49:55,155 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field authenticationManager in com.onpassive.otracker.controller.UserController required a bean of type 'org.springframework.security.authentication.AuthenticationManager' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.authentication.AuthenticationManager' in your configuration.
+
+2023-06-03 19:50:15,092 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:50:15,092 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:50:15,093 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:50:15,993 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field authenticationManager in com.onpassive.otracker.controller.UserController required a bean of type 'org.springframework.security.authentication.AuthenticationManager' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.security.authentication.AuthenticationManager' in your configuration.
+
+2023-06-03 19:50:29,735 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:50:29,736 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:50:29,736 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:50:30,521 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController' defined in file [E:\LoginWithJWT\target\classes\com\onpassive\otracker\controller\UserController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.onpassive.otracker.controller.UserController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.onpassive.otracker.LoginWithJwtApplication.main(LoginWithJwtApplication.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.onpassive.otracker.controller.UserController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at com.onpassive.otracker.controller.UserController.<init>(UserController.java:16)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 24 common frames omitted
+2023-06-03 19:50:59,667 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 6240 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:50:59,668 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:50:59,668 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:51:00,810 ERROR org.springframework.boot.SpringApplication [restartedMain] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userController' defined in file [E:\LoginWithJWT\target\classes\com\onpassive\otracker\controller\UserController.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.onpassive.otracker.controller.UserController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1334)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1232)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:412)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1290)
+	at com.onpassive.otracker.LoginWithJwtApplication.main(LoginWithJwtApplication.java:13)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.onpassive.otracker.controller.UserController]: Constructor threw exception; nested exception is java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:224)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1326)
+	... 22 common frames omitted
+Caused by: java.lang.Error: Unresolved compilation problems: 
+	The import com.onpassive.otracker.util.JwtUtil cannot be resolved
+	JwtUtil cannot be resolved to a type
+
+	at com.onpassive.otracker.controller.UserController.<init>(UserController.java:14)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:211)
+	... 24 common frames omitted
+2023-06-03 19:52:44,414 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 4120 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:52:44,420 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:52:44,420 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:52:49,928 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 6.018 seconds (JVM running for 7.858)
+2023-06-03 19:53:07,186 ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper [http-nio-9090-exec-7] Field 'phon_no' doesn't have a default value
+2023-06-03 19:53:07,264 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-9090-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.orm.jpa.JpaSystemException: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement] with root cause
+java.sql.SQLException: Field 'phon_no' doesn't have a default value
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:129)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1098)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdateInternal(ClientPreparedStatement.java:1046)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeLargeUpdate(ClientPreparedStatement.java:1371)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeUpdate(ClientPreparedStatement.java:1031)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeUpdate(ProxyPreparedStatement.java:61)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeUpdate(HikariProxyPreparedStatement.java)
+	at org.hibernate.engine.jdbc.internal.ResultSetReturnImpl.executeUpdate(ResultSetReturnImpl.java:197)
+	at org.hibernate.engine.jdbc.batch.internal.NonBatchingBatch.addToBatch(NonBatchingBatch.java:46)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3375)
+	at org.hibernate.persister.entity.AbstractEntityPersister.insert(AbstractEntityPersister.java:3908)
+	at org.hibernate.action.internal.EntityInsertAction.execute(EntityInsertAction.java:107)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:604)
+	at org.hibernate.engine.spi.ActionQueue.lambda$executeActions$1(ActionQueue.java:478)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:684)
+	at org.hibernate.engine.spi.ActionQueue.executeActions(ActionQueue.java:475)
+	at org.hibernate.event.internal.AbstractFlushingEventListener.performExecutions(AbstractFlushingEventListener.java:344)
+	at org.hibernate.event.internal.DefaultFlushEventListener.onFlush(DefaultFlushEventListener.java:40)
+	at org.hibernate.event.service.internal.EventListenerGroupImpl.fireEventOnEachListener(EventListenerGroupImpl.java:107)
+	at org.hibernate.internal.SessionImpl.doFlush(SessionImpl.java:1402)
+	at org.hibernate.internal.SessionImpl.managedFlush(SessionImpl.java:493)
+	at org.hibernate.internal.SessionImpl.flushBeforeTransactionCompletion(SessionImpl.java:3285)
+	at org.hibernate.internal.SessionImpl.beforeTransactionCompletion(SessionImpl.java:2420)
+	at org.hibernate.engine.jdbc.internal.JdbcCoordinatorImpl.beforeTransactionCompletion(JdbcCoordinatorImpl.java:449)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.beforeCompletionCallback(JdbcResourceLocalTransactionCoordinatorImpl.java:183)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl.access$300(JdbcResourceLocalTransactionCoordinatorImpl.java:40)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.JdbcResourceLocalTransactionCoordinatorImpl$TransactionDriverControlImpl.commit(JdbcResourceLocalTransactionCoordinatorImpl.java:281)
+	at org.hibernate.engine.transaction.internal.TransactionImpl.commit(TransactionImpl.java:101)
+	at org.springframework.orm.jpa.JpaTransactionManager.doCommit(JpaTransactionManager.java:562)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.processCommit(AbstractPlatformTransactionManager.java:743)
+	at org.springframework.transaction.support.AbstractPlatformTransactionManager.commit(AbstractPlatformTransactionManager.java:711)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.commitTransactionAfterReturning(TransactionAspectSupport.java:654)
+	at org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:407)
+	at org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.dao.support.PersistenceExceptionTranslationInterceptor.invoke(PersistenceExceptionTranslationInterceptor.java:137)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.data.jpa.repository.support.CrudMethodMetadataPostProcessor$CrudMethodMetadataPopulatingMethodInterceptor.invoke(CrudMethodMetadataPostProcessor.java:174)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+	at com.sun.proxy.$Proxy104.save(Unknown Source)
+	at com.onpassive.otracker.controller.UserController.signUp(UserController.java:52)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2023-06-03 19:54:23,851 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 4120 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:54:23,851 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:54:23,852 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:54:27,691 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 3.894 seconds (JVM running for 105.621)
+2023-06-03 19:54:41,757 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:54:41,760 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:54:41,761 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:54:49,032 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 7.758 seconds (JVM running for 9.514)
+2023-06-03 19:55:21,268 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:55:21,269 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:55:21,269 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:55:25,449 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 4.233 seconds (JVM running for 45.931)
+2023-06-03 19:56:29,722 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:56:29,722 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:56:29,722 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:56:30,943 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.268 seconds (JVM running for 111.425)
+2023-06-03 19:57:13,733 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:57:13,734 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:57:13,734 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:57:14,747 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.061 seconds (JVM running for 155.229)
+2023-06-03 19:57:18,611 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 19:57:18,612 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 19:57:18,612 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 19:57:19,670 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.101 seconds (JVM running for 160.152)
+2023-06-03 20:10:51,367 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:10:51,367 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:10:51,368 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:10:52,375 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.092 seconds (JVM running for 972.857)
+2023-06-03 20:11:08,480 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:11:08,481 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:11:08,481 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:11:09,528 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.088 seconds (JVM running for 990.01)
+2023-06-03 20:11:19,562 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:11:19,562 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:11:19,562 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:11:20,547 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.022 seconds (JVM running for 1001.029)
+2023-06-03 20:12:17,515 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:12:17,515 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:12:17,515 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:12:18,467 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.996 seconds (JVM running for 1058.949)
+2023-06-03 20:12:23,367 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:12:23,368 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:12:23,368 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:12:24,331 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.001 seconds (JVM running for 1064.813)
+2023-06-03 20:12:36,374 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:12:36,375 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:12:36,375 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:12:37,374 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.036 seconds (JVM running for 1077.855)
+2023-06-03 20:12:56,551 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:12:56,551 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:12:56,551 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:12:57,613 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.098 seconds (JVM running for 1098.095)
+2023-06-03 20:15:38,211 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:15:38,211 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:15:38,211 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:15:39,618 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.448 seconds (JVM running for 1260.1)
+2023-06-03 20:19:35,102 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:19:35,102 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:19:35,102 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:19:36,067 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.009 seconds (JVM running for 1496.549)
+2023-06-03 20:19:39,978 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:19:39,979 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:19:39,979 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:19:40,969 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.033 seconds (JVM running for 1501.45)
+2023-06-03 20:23:19,758 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:23:19,758 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:23:19,758 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:23:20,815 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.097 seconds (JVM running for 1721.297)
+2023-06-03 20:24:50,548 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:24:50,549 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:24:50,549 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:24:51,507 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.994 seconds (JVM running for 1811.99)
+2023-06-03 20:25:00,472 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:25:00,473 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:25:00,473 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:25:01,404 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.966 seconds (JVM running for 1821.885)
+2023-06-03 20:25:09,361 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:25:09,361 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:25:09,361 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:25:10,366 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.042 seconds (JVM running for 1830.847)
+2023-06-03 20:28:40,012 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:28:40,013 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:28:40,013 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:28:40,998 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.024 seconds (JVM running for 2041.48)
+2023-06-03 20:28:47,899 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:28:47,899 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:28:47,899 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:28:48,832 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.968 seconds (JVM running for 2049.314)
+2023-06-03 20:29:30,538 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:29:30,538 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:29:30,539 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:29:31,671 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.168 seconds (JVM running for 2092.153)
+2023-06-03 20:29:42,662 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:29:42,662 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:29:42,663 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:29:43,589 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.967 seconds (JVM running for 2104.071)
+2023-06-03 20:29:57,658 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:29:57,658 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:29:57,659 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:29:58,602 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.977 seconds (JVM running for 2119.084)
+2023-06-03 20:30:47,598 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:30:47,599 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:30:47,599 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:30:48,659 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.094 seconds (JVM running for 2169.141)
+2023-06-03 20:31:01,704 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:31:01,704 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:31:01,704 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:31:02,694 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.027 seconds (JVM running for 2183.176)
+2023-06-03 20:31:27,045 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:31:27,045 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:31:27,045 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:31:27,964 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.953 seconds (JVM running for 2208.447)
+2023-06-03 20:31:36,947 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:31:36,947 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:31:36,948 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:31:37,892 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.979 seconds (JVM running for 2218.374)
+2023-06-03 20:31:44,814 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:31:44,814 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:31:44,814 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:31:45,759 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.981 seconds (JVM running for 2226.241)
+2023-06-03 20:32:04,986 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:32:04,987 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:32:04,987 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:32:05,944 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.003 seconds (JVM running for 2246.426)
+2023-06-03 20:33:05,143 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:33:05,144 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:33:05,144 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:33:06,089 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.981 seconds (JVM running for 2306.571)
+2023-06-03 20:33:38,620 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:33:38,621 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:33:38,621 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:33:39,920 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.346 seconds (JVM running for 2340.402)
+2023-06-03 20:33:41,710 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:33:41,710 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:33:41,711 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:33:42,668 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 0.99 seconds (JVM running for 2343.15)
+2023-06-03 20:34:02,856 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Starting LoginWithJwtApplication using Java 11.0.8 on DESKTOP-VIAST9V with PID 1296 (E:\LoginWithJWT\target\classes started by Anish Yadav in E:\LoginWithJWT)
+2023-06-03 20:34:02,857 DEBUG com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Running with Spring Boot v2.6.2, Spring v5.3.14
+2023-06-03 20:34:02,857 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] No active profile set, falling back to default profiles: default
+2023-06-03 20:34:03,939 INFO com.onpassive.otracker.LoginWithJwtApplication [restartedMain] Started LoginWithJwtApplication in 1.113 seconds (JVM running for 2364.421)
